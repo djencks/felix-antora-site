@@ -98,6 +98,7 @@
 ** xref:subprojects/apache-felix-osgi-bundle-repository.adoc[]
 ** xref:subprojects/apache-felix-preferences-service.adoc[]
 ** xref:subprojects/apache-felix-remote-shell.adoc[]
+** xref:subprojects/scr.adoc[]
 ** xref:subprojects/apache-felix-shell.adoc[]
 ** xref:subprojects/apache-felix-shell-tui.adoc[]
 ** xref:subprojects/apache-felix-web-console.adoc[]

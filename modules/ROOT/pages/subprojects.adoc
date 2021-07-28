@@ -94,7 +94,7 @@ If this project is not using Maven, refer to the docs for the subproject on how 
 | A remote, text-based interface to the Apache Felix Shell.
 | https://github.com/apache/felix-dev/tree/master/shell.remote[source]
 
-| https://github.com/apache/felix-dev/tree/master/scr[Service Component Runtime]
+| xref:subprojects/scr.adoc[Service Component Runtime]
 | An implementation of the https://osgi.org/specification/osgi.cmpn/7.0.0/service.component.html[OSGi Declarative Services specification] providing a service-oriented component model to simplify OSGi-based development.
 | https://github.com/apache/felix-dev/tree/master/scr[source]
 
